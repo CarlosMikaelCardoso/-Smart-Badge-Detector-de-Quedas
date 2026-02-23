@@ -1,0 +1,1 @@
+# -Smart-Badge-Detector-de-Quedas
