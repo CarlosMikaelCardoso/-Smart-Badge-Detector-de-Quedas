@@ -84,5 +84,3 @@ Este documento detalha o planejamento das **18 semanas de desenvolvimento do Sma
 - A bateria deve suportar **no mínimo 12 horas de monitoramento contínuo**
 
 ---
-
-📌 **Atualizado em:** 21 de Fevereiro de 2026
