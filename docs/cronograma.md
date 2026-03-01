@@ -43,9 +43,8 @@ Este documento detalha o planejamento das **18 semanas de desenvolvimento do Sma
 | Semana | Atividade | Detalhamento Técnico |
 |--------|-----------|----------------------|
 05 | Sprint Lógica Base | Desenvolvimento do algoritmo de queda (análise de vetores G); Diferenciação entre tropeço e queda com imobilidade |
-06 | Sprint Conectividade | Criação do Portal/App para cadastro; Implementação do pareamento via Wi-Fi; Interface inicial |
-07 | Integração de HW | Integração total: ESP32 + MPU6050 + Buzzer; Autenticação segura com Banco de Dados |
-08 | Validação de Bancada | Implementação de telemetria e logs; Pipeline de dados para monitoramento em tempo real |
+06 | Integração de HW | Integração total: ESP32 + MPU6050 + Buzzer; Autenticação segura com Banco de Dados |
+07 | Validação de Bancada | Implementação de telemetria e logs; Pipeline de dados para monitoramento em tempo real |
 
 ---
 
@@ -55,10 +54,10 @@ Este documento detalha o planejamento das **18 semanas de desenvolvimento do Sma
 
 | Semana | Atividade | Detalhamento Técnico |
 |--------|-----------|----------------------|
-09 | Estabilidade (QA) | Redução do consumo de energia (Deep Sleep no ESP32); Correção de bugs de conexão |
-10 | Montagem End-to-End | Testes integrando hardware final com o App; Verificação do tempo de resposta do buzzer |
-11 | Teste em Campo I | Testes controlados em ambiente real; Calibração de sensibilidade para evitar falsos positivos |
-12 | Teste de Segurança | Hardening; Testes de OTA (Over The Air) e confiabilidade do sistema |
+08 | Estabilidade (QA) | Redução do consumo de energia (Deep Sleep no ESP32); Correção de bugs de conexão |
+09 | Montagem End-to-End | Testes integrando hardware final com o App; Verificação do tempo de resposta do buzzer |
+10 | Teste em Campo I | Testes controlados em ambiente real; Calibração de sensibilidade para evitar falsos positivos |
+11 | Teste de Segurança | Hardening; Testes de OTA (Over The Air) e confiabilidade do sistema |
 
 ---
 
@@ -68,12 +67,12 @@ Este documento detalha o planejamento das **18 semanas de desenvolvimento do Sma
 
 | Semana | Atividade | Detalhamento Técnico |
 |--------|-----------|----------------------|
-13 | Geração de Métricas | Homologação interna; Checklist de critérios de entrega (DoD); Coleta de latência de rede |
-14 | Piloto com Usuários | Testes de usabilidade com idosos/cuidadores; Feedback sobre conforto do crachá |
-15 | Relatório Técnico | Finalização do documento de arquitetura; Ajustes finais no código |
-16 | Manual do Usuário | Guia de operação, carregamento da bateria e configuração do App |
-17 | Preparação Final | Ensaio da apresentação; Ajustes estéticos; Preparação do rollout |
-18 | Entrega do MVP | Apresentação final e entrega do protótipo funcional ao LARAF |
+12 | Geração de Métricas | Homologação interna; Checklist de critérios de entrega (DoD); Coleta de latência de rede |
+13 | Piloto com Usuários | Testes de usabilidade com idosos/cuidadores; Feedback sobre conforto do crachá |
+14 | Relatório Técnico | Finalização do documento de arquitetura; Ajustes finais no código |
+15 | Manual do Usuário | Guia de operação, carregamento da bateria e configuração do App |
+16 | Preparação Final | Ensaio da apresentação; Ajustes estéticos; Preparação do rollout |
+17 | Entrega do MVP | Apresentação final e entrega do protótipo funcional ao LARAF |
 
 ---
 
@@ -84,3 +83,4 @@ Este documento detalha o planejamento das **18 semanas de desenvolvimento do Sma
 - A bateria deve suportar **no mínimo 12 horas de monitoramento contínuo**
 
 ---
+
